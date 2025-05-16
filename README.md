@@ -1,0 +1,1 @@
+This github repo contain the simulation of slot machines as a helping tool to design rewards. See full simulation on the jupiter notebook file.
